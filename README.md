@@ -9,3 +9,5 @@ Neste projeto estou usando algumas versões de pré-processadores desatualizadas
 <img src="https://servidor-estatico-tawny.vercel.app/terrariaum.png" />
 
 <img src="https://servidor-estatico-tawny.vercel.app/terrariadois.png" />
+<br/>
+Sinta-se avontade para acessar e conhecer!
