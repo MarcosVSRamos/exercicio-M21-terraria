@@ -1,4 +1,4 @@
-[Link](https://exercicio-m21-terraria.vercel.app/)
+[Acesse o Site](https://exercicio-m21-terraria.vercel.app/)
 
 Este projeto tem o intuito de praticar e desenvolver algumas habilidades na programação front-end criando um site com o tema do jogo Terraria.
 Principais ferramentas e linguagens utilizadas: JavaScript; SCSS; Gulp
